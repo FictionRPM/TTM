@@ -42,6 +42,19 @@ body {
     font-family: 'Kalam'
   }
 
+  .top-pic {
+    max-width: 685px;
+    display: inline-block;
+    margin-bottom: 20px;
+  }
+  
+  @media (max-width: 685px) {
+    .top-pic {
+      display: block;
+      max-width: 685px;
+    }
+  }
+
   #__img_profile_circle {
 	top: 68px;
 	right: 5px;
