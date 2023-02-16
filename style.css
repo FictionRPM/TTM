@@ -2,6 +2,7 @@ h1 {
     color:#F7BBB9 ;
     margin-top: 80px;
     font-weight: bold;
+    outline: 1px solid black;
 }
 h2 {
     max-width: 220px;
