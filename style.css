@@ -15,7 +15,7 @@ h2 {
     color:#fafafa ;
 
   }
-  
+
 p {
     font-family: 'Kalam', cursive;
     font-weight: bold;
@@ -428,3 +428,7 @@ body {
     }
   }
   
+.name {
+  font-weight: bold;
+  font-size: 18px;
+}
