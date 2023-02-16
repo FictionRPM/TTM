@@ -14,9 +14,9 @@ p {
     font-size: 20px;
   }
 
-  .white-text {
+  div.copyright {
     color: white;
-  }
+}
   
 
 #logo {
