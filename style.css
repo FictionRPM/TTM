@@ -6,8 +6,16 @@ h1 {
 h2 {
     max-width: 220px;
     height: auto;
+  }
+
+  h3 {
+    max-width: 220px;
+    height: auto;
+    font-family: 'Kalam', cursive;
+    color:#fafafa ;
 
   }
+  
 p {
     font-family: 'Kalam', cursive;
     font-weight: bold;
@@ -420,10 +428,3 @@ body {
     }
   }
   
-  h3 {
-    max-width: 220px;
-    height: auto;
-    font-family: 'Kalam', cursive;
-    color:#fafafa ;
-
-  }
