@@ -13,11 +13,7 @@ p {
     font-weight: bold;
     font-size: 20px;
   }
-
-  h4 {
-    color: white;
-  }
-    
+   
 
 #logo {
 	max-width: 211px;
@@ -431,6 +427,6 @@ body {
     max-width: 220px;
     height: auto;
     font-family: 'Kalam', cursive;
-    color:#F7BBB9 ;
+    color:#fafafa ;
 
   }
