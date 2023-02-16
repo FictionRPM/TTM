@@ -1,5 +1,7 @@
 h1 {
     color:#F7BBB9 ;
+    margin-top: 80px;
+    font-weight: bold;
 }
 h2 {
     max-width: 220px;
@@ -26,6 +28,10 @@ body {
   header {
     background-color: #392465;
     padding: 20px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
   }
   nav ul {
     display: flex;
