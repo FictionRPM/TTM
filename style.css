@@ -102,13 +102,11 @@ body {
   }
   
   @media (max-width: 400px) {
-    p, p2 {
+    p
         width: 100%;
         text-align: left; 
-    
-  }
+    }
 
-  }
 
 
   .pearl {
