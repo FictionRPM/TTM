@@ -428,7 +428,35 @@ body {
     }
   }
   
-.name {
-  font-weight: bold;
-  font-size: 18px;
-}
+  form {
+    background-color: #467899;
+    color: #fff;
+  }
+  
+  form label {
+    display: block;
+    margin-top: 10px;
+  }
+  
+  form input[type="text"],
+  form input[type="email"],
+  form textarea {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    background-color: #fff;
+    color: #333;
+    margin-top: 5px;
+    box-sizing: border-box;
+  }
+  
+  form input[type="submit"] {
+    background-color: #fff;
+    color: #333;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+  
