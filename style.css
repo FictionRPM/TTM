@@ -473,4 +473,15 @@ body {
     width: 48%;
     margin-bottom: 1rem;
   }
+  .checkout-success {
+    background-color: #f0f0f0; /* set a light gray background color */
+    color: #333; /* set a dark text color */
+    padding: 20px;
+    text-align: center;
+    font-size: 1.2em;
+  }
+  
+  .checkout-success div {
+    margin: 10px 0;
+  }
   
